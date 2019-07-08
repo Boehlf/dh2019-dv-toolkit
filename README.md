@@ -1,6 +1,3 @@
-# dh2019-dv-toolkit
-Tutorial notes for the DH2019 AVinDH workshop
-
 # Image Analysis with Deep Learning
 
 [Taylor Arnold](https://statsmaths.github.io), Assistant Professor of Statistics, [@statsmaths](https://twitter.com/statsmaths)
