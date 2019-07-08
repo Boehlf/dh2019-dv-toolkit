@@ -80,7 +80,7 @@ We will be using the Python programming language for the workshop, as well as
 several third-party packages. All of it is free and open source. Here is the
 link to the Anaconda version of Python that we suggest you use:
 
-- [Anaconda Python 3.7](https://www.anaconda.com/)
+- [Anaconda Python 3.7](https://www.anaconda.com/distribution/#download-section)
 
 If you would like to follow along during the workshop, we suggest trying to
 install this software ahead of the workshop as it can take a bit of time to
