@@ -72,7 +72,7 @@ check out the notes we have from our week-long workshop at
 
 The materials for today's workshop can be found in the following file:
 
-- [dh2019.zip](https://www.distantviewing.org/dh2019-dv-toolkit.zip)
+- [dh2019-dv-toolkit.zip](https://www.distantviewing.org/dh2019-dv-toolkit.zip)
 
 The code is also available in this GitHub repository, but the data files are
 too large to store using git.
